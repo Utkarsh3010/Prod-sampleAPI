@@ -1,0 +1,80 @@
+[
+    {
+        "name":"iphone",
+        "price":100000,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone14",
+        "price":10023242,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"OnePlus 9",
+        "price":50000,
+        "feature":true,
+        "company":"OnePlus"
+    },
+    {
+        "name":"RealMe 9",
+        "price":23400,
+        "feature":true,
+        "company":"RealME"
+    },
+    {
+        "name":"G-Shock",
+        "price":8000,
+        "feature":true,
+        "company":"G-Shock"
+    },
+    {
+        "name":"iphone 12",
+        "price":45000,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"OnePlus 11",
+        "price":72000,
+        "feature":true,
+        "company":"OnePlus"
+    },
+    {
+        "name":"Samsung Galaxy 22",
+        "price":121000,
+        "feature":true,
+        "company":"Samsung"
+    },
+    {
+        "name":"Dell Laptop",
+        "price":100343,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"G-Shock 8",
+        "price":10033,
+        "feature":true,
+        "company":"G-Shock"
+    },
+    {
+        "name":"Samsung Galaxy Note 13",
+        "price":1003433,
+        "feature":true,
+        "company":"Samsung"
+    },
+    {
+        "name":"OnePlus 9 T",
+        "price":100343,
+        "feature":true,
+        "company":"OnePlus"
+    },
+    {
+        "name":"RealMe 6",
+        "price":10443,
+        "feature":true,
+        "company":"RealME"
+    }
+]
